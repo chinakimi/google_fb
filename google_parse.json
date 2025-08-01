@@ -1,6 +1,6 @@
 {
   "enable": 1,
-  "primary": "http://test.tv:90",
+  "primary": "http://185.233.16.2:9000",
   "fallback": [
     "http://test1.tv:90",
     "http://test2.tv:90",
