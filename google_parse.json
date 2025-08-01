@@ -1,10 +1,10 @@
 {
   "enable": 1,
-  "primary": "http://185.233.16.2:9000",
+  "primary": "http://pub.mividobase.xyz:9000",
   "fallback": [
-    "http://test1.tv:90",
-    "http://test2.tv:90",
-    "http://test3.com:90"
+    "http://b.mividobase.xyz:9000",
+    "http://c.mividobase.xyz:9000",
+    "http://d.mividobase.xyz:9000"
   ],
   "last_updated": "2025-08-01"
 }
