@@ -1,0 +1,10 @@
+{
+  "enable": 1,
+  "primary": "http://pub.mividobase.xyz:9000",
+  "fallback": [
+    "http://b.mividobase.xyz:9000",
+    "http://c.mividobase.xyz:9000",
+    "http://d.mividobase.xyz:9000"
+  ],
+  "last_updated": "2025-08-01"
+}
